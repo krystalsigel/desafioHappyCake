@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/desafioHappyCake/static/css/main.ceedc169.css",
+    "main.js": "/desafioHappyCake/static/js/main.417ba452.js",
+    "static/media/macake.jpg": "/desafioHappyCake/static/media/macake.d600b62306cfb224fa4a.jpg",
+    "index.html": "/desafioHappyCake/index.html",
+    "main.ceedc169.css.map": "/desafioHappyCake/static/css/main.ceedc169.css.map",
+    "main.417ba452.js.map": "/desafioHappyCake/static/js/main.417ba452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceedc169.css",
+    "static/js/main.417ba452.js"
+  ]
+}
